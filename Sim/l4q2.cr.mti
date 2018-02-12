@@ -1,0 +1,15 @@
+C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q2/Src/l4q2.v {1 {vlog -work work -vopt C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q2/Src/l4q2.v
+QuestaSim vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module dff2
+
+Top level modules:
+	dff2
+
+} {} {}} C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q2/Sim/tb_l4q2.v {1 {vlog -work work -vopt C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q2/Sim/tb_l4q2.v
+QuestaSim vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module tbd
+
+Top level modules:
+	tbd
+
+} {} {}}

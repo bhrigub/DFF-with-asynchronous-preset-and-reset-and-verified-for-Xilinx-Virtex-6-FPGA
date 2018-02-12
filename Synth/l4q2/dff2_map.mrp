@@ -1,0 +1,12 @@
+Release 14.7 Map P.20131013 (nt)
+Xilinx Mapping Report File for Design 'dff2'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc4vlx25-ff668-10 -global_opt off -cm area
+-ir off -pr off -c 100 -o dff2_map.ncd dff2.ngd dff2.pcf 
+Target Device  : xc4vlx25
+Target Package : ff668
+Target Speed   : -10
+Mapper Version : virtex4 -- $Revision: 1.55 $
+Mapped Date    : Thu May 28 18:23:29 2015

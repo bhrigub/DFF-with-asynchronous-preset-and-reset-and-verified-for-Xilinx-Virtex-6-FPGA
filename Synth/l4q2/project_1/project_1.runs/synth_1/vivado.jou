@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4
+# SW Build 1071353 on Tue Nov 18 18:06:20 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Fri May 29 18:10:47 2015
+# Process ID: 4328
+# Log file: C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q2/Synth/l4q2/project_1/project_1.runs/synth_1/dff2.vds
+# Journal file: C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab4/Q2/Synth/l4q2/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source dff2.tcl
